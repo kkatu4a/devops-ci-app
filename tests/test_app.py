@@ -24,3 +24,4 @@ def test_index(client):
         "service": "devops-ci-app",
         "version": "1.0.0",
         "status": "running",
+    }
