@@ -24,4 +24,5 @@ def test_index(client):
         "service": "devops-ci-app",
         "version": "1.1.0-klenova",
         "status": "running",
+
     }
