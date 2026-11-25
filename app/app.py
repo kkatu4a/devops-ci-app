@@ -22,4 +22,3 @@ def create_app():
     return application
 
 app = create_app()
-
